@@ -15,3 +15,5 @@ Abra o arquivo `index.html` no navegador.
 
 ## Personalizar
 Confira os links dos repositórios e altere os textos diretamente no `index.html` se necessário. O botão EN/PT troca o idioma sem bibliotecas externas.
+
+Projeto desenvolvido para apresentar meu perfil e minha evolução em tecnologia e Ciência de Dados.
