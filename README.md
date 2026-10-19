@@ -17,3 +17,6 @@ Abra o arquivo `index.html` no navegador.
 Confira os links dos repositórios e altere os textos diretamente no `index.html` se necessário. O botão EN/PT troca o idioma sem bibliotecas externas.
 
 Projeto desenvolvido para apresentar meu perfil e minha evolução em tecnologia e Ciência de Dados.
+
+
+Este projeto apresenta meu perfil profissional e reúne meus projetos práticos de tecnologia.
