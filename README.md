@@ -22,8 +22,16 @@ Confira os links dos repositórios e altere os textos diretamente no `index.html
 
 ## Melhorias futuras
 
+<## Melhorias futuras
+
 - Adicionar novos projetos práticos ao portfólio.
 - Atualizar a documentação conforme a evolução dos estudos.
 - Melhorar a apresentação dos resultados de cada projeto.
 
 Projeto desenvolvido para apresentar meu perfil e minha evolução em tecnologia e Ciência de Dados.
+- Adicionar novos projetos práticos ao portfólio.
+- Atualizar a documentação conforme a evolução dos estudos.
+- Melhorar a apresentação dos resultados de cada projeto.
+
+Projeto desenvolvido para apresentar meu perfil e minha evolução em tecnologia e Ciência de Dados.
+main
