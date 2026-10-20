@@ -18,8 +18,13 @@ Confira os links dos repositórios e altere os textos diretamente no `index.html
 
 Projeto desenvolvido para apresentar meu perfil e minha evolução em tecnologia e Ciência de Dados.
 
+<<<<<<< HEAD
 ## Melhorias futuras
 
 - Adicionar novos projetos práticos ao portfólio.
 - Atualizar a documentação conforme a evolução dos estudos.
 - Melhorar a apresentação dos resultados de cada projeto.
+=======
+
+Este projeto apresenta meu perfil profissional e reúne meus projetos práticos de tecnologia.
+>>>>>>> origin/main
